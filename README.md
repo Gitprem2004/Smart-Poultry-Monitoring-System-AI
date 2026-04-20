@@ -103,8 +103,17 @@ python manage.py runserver
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-*Add screenshots of UI, detection results, and chatbot output here*
+### 🏠 Home Page
+![Home](screenshots/homepage.png)
+
+### 🎯 Detection Output
+![Detection](screenshots/output.png)
+![Detection](screenshots/output1.png)
+
+### 🤖 AI Chatbot Response
+![Chatbot](screenshots/chatbot.png)
 
 ---
 
