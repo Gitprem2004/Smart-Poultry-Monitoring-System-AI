@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+.ipynb_checkpoints/
+dataset/
+*.zip
+*.pt
+*.h5
+media/
+uploads/
